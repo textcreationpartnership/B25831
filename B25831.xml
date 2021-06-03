@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from a friend in the countrey to a member in the Honovrable Hovse of Commons</title>
+         </titleStmt>
+         <extent>Approx. 46KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25831</idno><idno type="EEBO-CITATION">12099469</idno>
+  <idno type="VID">196891</idno>
+  <idno type="EEBO-PROQUEST">2240940102</idno>
+  
+            <idno type="STC">Wing L1375</idno>
+            <idno type="OCLC">12099469</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 240:E68, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from a friend in the countrey to a member in the Honovrable Hovse of Commons</title>
+               </titleStmt>
+               <extent>[2], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Closely trimmed.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Clergy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196891:1"/>
+            <pb facs="tcp:196891:1"/>
+            <p>A LETTER From A FRIEND <hi>In The</hi> COUNTREY: To a MEMBER In the HONOVRABLE HOVSE Of COMMONS.</p>
+            <p>Printed 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:196891:2"/>
+            <pb n="1" facs="tcp:196891:2"/>
+            <head>A Letter from a Friend in the Country, to a Member of the Honourable House of COMMONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have had a great conflict within my selfe, whe<g ref="char:EOLhyphen"/>ther as the times stand, I might make bold to write unto you, or no; not well knowing, how you may take it, or what distaste I may draw upon my selfe. The sincere charity, which I beare to your Family, urgeth me to speake, but the care of mine owne quietnesse perswadeth silence. Yet considering, that <hi>Abigail,</hi> a weake woman, gave that counsell to <hi>David,</hi> which was pleasing to God, and profitable to man; and that it was not one of <hi>Davids</hi> least honours, that he followed her advice, I have adventured to speake; and I hope, with <hi>Abigail</hi> in a good season.</p>
+            <p>I know, the dayes are evill, and judgement is like to begin at the house of God; blame me not then, if I proffer you some few Observations, in the midst of your greatest Con<g ref="char:EOLhyphen"/>sultations; especially if I goe not beyond my Line. God knowes, my intent is, to withhold you from <hi>Uzza's sinne,</hi>
+               <note place="margin">
+                  <hi>2 Sam. 6 6.7</hi> E<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>endens <hi>Vz<g ref="char:EOLunhyphen"/>za</hi> manum su<g ref="char:EOLhyphen"/>am, &amp; volens arcum retiner<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> cum Sacerdos non esset, quo<g ref="char:EOLhyphen"/>niam cam con<g ref="char:EOLunhyphen"/>tingere prae<g ref="char:EOLhyphen"/>sumpsit, extin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ctusest. Josep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Antiq: l. <hi>7.</hi> c,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Ma. 24.9. Ioh, 16.2. Ib. v. 3.</hi>
+               </note> lest perchance you fall into <hi>Uzza's punishment.</hi>
+            </p>
+            <p>I have heard it spoken, and lamented even by Citizens, and such as are strangers to my blood, that the Clergy were never in the memory of man, in such disrespect, as they are at this present. Indeed if the care had not heard it, the eye cannot choose but see it; in so much that I plainly perceive, that the time is drawing on, whereof our Saviour foretells, that <hi>men shall hate us for his name sake,</hi> and persecute us; and <hi>whosoever killeth us, will thinke, that he doth God good service.</hi> But this shall
+<pb n="2" facs="tcp:196891:3"/> be done by those, who want the true knowledge of God and his Christ.</p>
+            <p>I question not, but you hold it not onely dangerous, but odious,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o. 23.2. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ov. 11.21.</note> to <hi>follow a multitude to doe evill.</hi> I shall therefore en<g ref="char:EOLhyphen"/>treat you to peruse, and weigh well these few considerations.</p>
+            <p n="1">I. The first, that I shall present you with, is that of the Lord, <hi>Deut.</hi> 17.12. <hi>The man, that will doe</hi> PRESUMTU<g ref="char:EOLhyphen"/>OUSLY,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ar the Lord, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> honour the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>riests. Ecc. 7. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> and <hi>will not hearken unto the Priest (that standeth there to minister before the Lord thy God) or unto the Iudge, that man shall dye.</hi>
+            </p>
+            <p n="2">II. Of the Apostles and their successors, our Saviour saith,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eron. ad <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>arcel. advers. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ontan. Chri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s honoratur <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> servis suis. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>i Apostolis promittit di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us, qui vos re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it, me recipit, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>c. Hieron. in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pitaph. Luci. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ieron. ad Fu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>am. Cypr. ep. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> n. <hi>7.</hi> Salviā. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Gubern. Dei <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>8.</hi> Ib▪</note>
+               <hi>He that heareth you, heareth me, and he that despiseth you, despiseth me. Luk.</hi> 10.16. <hi>Et apud nos Apostolorum locum Episco<g ref="char:EOLhyphen"/>pitenent,</hi> so <hi>S. Hierome,</hi> In all Orthodoxe Churches, Bishops hold the place of the Apostles. This then is spoken of Bi<g ref="char:EOLhyphen"/>shops, so long as they be Orthodox. Hence is that of the same Father; <hi>Illius vita laudanda est, qui</hi> VENERATIONI HA<g ref="char:EOLhyphen"/>BET SASERDOTES CHRISI, <hi>&amp; non detrahit gradui,</hi> PER QUEM FACTUS EST CHRISIANUS. And that of S. <hi>Cyprian;</hi> Sacerdotes Dei AB EO QUI SACERDOTES FACIT, <hi>vindicantur.</hi> And that of <hi>Salvian, sacrilegii genus est, Dei odisse cultores.</hi> And againe, <hi>Benignissimus ac piissomus Domi<g ref="char:EOLhyphen"/>nus</hi> COMMUNEM SIBI CUM SERVIS SUIS <hi>&amp; honorem simul, &amp; contumelian facit; nequis cum Laederet Dei servum, ho<g ref="char:EOLhyphen"/>minem tantum a se Laedi arbitraretur.</hi>
+            </p>
+            <p n="3">
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eut. 33.11.</note>III. Consider, that of the Tribe of <hi>Levi</hi> it is said, <hi>Blesse Lord his substance, and accept the worke of his hands. Smite thorow the loynes of them, that rise against him, and of them that</hi> HATE <hi>him, that they rise not againe.</hi> And this is a true Rule, <hi>Plus diligit Deus figuratum, quam figuram:</hi> God takes more care of his Church, then he did of the Synagogue.</p>
+            <p n="4">IV. Consider, that both in the Clergy and Laitie there is a two-fold condition or state. We are members of the Church and State; and so are yee, As we are <hi>Members of the
+<pb n="3" facs="tcp:196891:3"/> State,</hi> we are subject to the Lawes of the Land; and as yee are <hi>Members of the Church,</hi> yee are subject to the Lawes of the Church. As the Lawes of the Land bind us, so long as they affront not the Law of God: so the Laws of the Church bind you, as long as they crosse not the Word of God, or the Fundamentall Lawes of this Kingdome, <hi>Dic Ecclesiae,</hi>
+               <note place="margin">Mat. 18.17</note> com<g ref="char:EOLhyphen"/>plaine to the Church, will reach over all Christians in diverse cases. For there are certaine causes, that belong to the cog<g ref="char:EOLhyphen"/>nisance of the Church <hi>jure Apostolico,</hi> by Apostolicall right,<note place="margin">Cod. Afric. Can. <hi>59.</hi>
+               </note> that so they may there in the Church courts receive determi<g ref="char:EOLhyphen"/>nation. And he that will not heare the Church, that is, the Governours of the Church (by whom she speakes▪ <hi>Sit tibi velut Ethnicus &amp; Publicanus,</hi>
+               <note place="margin">Mat. 18.17.</note> let him be unto thee as an Hea<g ref="char:EOLhyphen"/>then, or Publican.</p>
+            <p n="5">V. Consider, that matters of faith were, even from the be<g ref="char:EOLhyphen"/>ginning of christianity, decided and setled by Church-men. At the first councell, the question of Circumcision was ref<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r'd <hi>ad Apostolos &amp; Presbyteros,</hi> to the <hi>Apostles and Priests,</hi>
+               <note place="margin">Act. 15.<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> or El<g ref="char:EOLhyphen"/>ders. They are the onely men, that debate and decide the question. And what they resolve on, the Brethren subscribe to.</p>
+            <p>The Canons also of the Church, were alwayes made by Bi<g ref="char:EOLhyphen"/>shops.<note place="margin">
+                  <p>
+                     <hi>Apostolos, ide<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Episcopos, D<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>minus elegit. Cypr. ep.</hi> 65.13.</p>
+                  <p>For this cau<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> left I thee at Cret, that thou should set in order the things th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> are wanting Ti<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1.5. Isa. 49.23.</p>
+               </note> There are none made after our Saviours Ascension (in the new Testament) but <hi>onely by the Apostles,</hi> who in the judgement of all Antiquity <hi>were Bishops:</hi> and no power given to any, by the Apostles, to make Canons, but onely to those, who were Bishops truely and properly so called, namely to <hi>Timothy,</hi> and <hi>Titus,</hi> the one being Bishop of <hi>Ephesus,</hi> and the other of <hi>Creete.</hi> And thus it continued cleane thorow the best and ancientest times.</p>
+            <p>But after it had pleased God to give <hi>Kings</hi> to be <hi>nursing Fathers, and Queenes to be nursing Mothers</hi> to the Church, coun<g ref="char:EOLhyphen"/>cels were called by Kings or Empero<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; or at lest by their Li<g ref="char:EOLhyphen"/>cence: and the conclusions or Canons of those councels were
+<pb n="4" facs="tcp:196891:4"/> by them confirmed made (I say) by Bps. confirmed by Kings. And when spirituall censures would not serve the turne, pe<g ref="char:EOLhyphen"/>nall and coercive statutes were made by Kings, to compell their subjects to the observation of these Canons.</p>
+            <p>That matters of Faith were ever refer'd to Councells of Bishops, is a truth so cleare, that no man that hath the least acquaintance with the foure first Generall Councells can make any question hereof. And is it not as plaine by the same Councells, that Bishops made Canons also, for the well ordering and governing of the Church?</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n. Concil. tom p. <hi>362.</hi>
+               </note>Yea the Emperour <hi>Marcian,</hi> attributed so much to the wisdome and piety of the Bishops in his time, that when he understood of some disorders that were crept in amongst the Clergie, and those that professed a monasticall life, he would not use his Royall power, in making lawes for the redresse of such disorders: but he complaines thereof to the Bishops, gathered together in that great <hi>Councell of Chalcedon,</hi> and de<g ref="char:EOLhyphen"/>sires them to provide a remedy for those abuses which was accordingly done by those Fathers, in the third, and in the twentieth Canons of that Councell.</p>
+            <p>Thus also when <hi>Dioscorus,</hi> and some other factious Pre<g ref="char:EOLhyphen"/>lates joyning with him, had not onely deprived, but degra<g ref="char:EOLhyphen"/>ded two Orthodox Bishops, viz. <hi>Flavianus Bishop of Constanti<g ref="char:EOLhyphen"/>nople,</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>agr. l. <hi>2.</hi> c <hi>18</hi>
+               </note> and <hi>Eusebius of Dorylaea;</hi> the Emperour <hi>Marcian</hi> received their complaints, but put them over to the Councell, to re<g ref="char:EOLhyphen"/>ceive reliefe, or sentence according to the Canons of the Church.</p>
+            <p n="6">
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>h. 4.11, 12.</note>VI. Consider that our Saviour gave to the Church <hi>some Apostles, and some Prophets, and some Evangelists, and some Pastours and Teachers for the</hi> PERFECTING <hi>of the Saints, for the work of the Ministery, for the</hi> EDIFYING <hi>of the body of Christ, That we may not be tossed to and fro like children,</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. v. 14.</note>
+               <hi>and carried about with every winde of Doctrine, by the sleight and cunning of such men as lie in waite to deceive</hi> the simple, and credulous, and such as are
+<pb n="5" facs="tcp:196891:4"/> over-busie, like our Mother <hi>Eve.</hi> But there will be this <hi>tosse<g ref="char:EOLhyphen"/>ing</hi> and <hi>deceiving,</hi> for all our preaching and writing, if some of these named here by the Apostle, have not power to make lawes against such dangerous persons, and authority to put such lawes in execution, when they are made.</p>
+            <p n="7">VII. Adde hereunto that command of S. <hi>Paul,</hi>
+               <note place="margin">Heb. 13.17.</note>
+               <hi>Obedite prae<g ref="char:EOLhyphen"/>positis vestris, obey them, that have the rule over you, and submit your selves unto them, for they watch for your soules,</hi> and in those dayes they had no other <hi>Governours that watch<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d for their soules</hi> health, but only Apostles or Bishops, And if we <hi>obey</hi> not our Bishops, we shal give an account for our soules, owne &amp; not they, if so our soules perish for want of being wel <hi>governed.</hi>
+            </p>
+            <p n="8">VIII. Consider that the very <hi>murmuring</hi> of the children of <hi>Israel against Moses &amp; Aaron,</hi> is called <hi>rebelling against the Lord.</hi> Numb. 14.2.9. because they were the Lords ordinance. Yea, their <hi>chiding</hi> (or wrangling) <hi>with Moses,</hi> is termed <hi>Rebellion</hi> Nūb. 20.3.10. And <hi>Moses &amp; Aaron were amongst his Priests, Ps.</hi> 99.6.</p>
+            <p n="9">IX. <hi>Consider that he which justifieth the wicked,</hi>
+               <note place="margin">Pro. 17.15.</note>
+               <hi>and he that con<g ref="char:EOLhyphen"/>demneth the just, even they both are an</hi> ABOMINATION to the Lord: God therefore hath given us two eares, that we might have one at least open for the defendant.</p>
+            <q>
+               <l>Qui iudicat aliquid, parte ina<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dita altera,</l>
+               <l>Aequum licet statuerit, haud aequus fuit.</l>
+            </q>
+            <p n="10">X. Besides the quality of the accused, as also of the accuser is to be considered,<note place="margin">1 Tim. 5.19.</note>
+               <hi>against a Priest</hi> (or Elder) <hi>an accusation is not to be received without two or three witnesses.</hi>
+               <note place="margin">
+                  <hi>Calvin in</hi> 1 <hi>Tim.</hi> 5.1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> And reason good (saith <hi>Calvine</hi>) for none lie more open to calumnie and de<g ref="char:EOLhyphen"/>traction, then godly teachers; yea, though they be most <hi>exact in their office, and free from blemish,</hi> yet shall they hardly escape a thousand slanders, such is the subtiltie of Satan, to alienate the minds of men from Gods Ministers, that so the doctrine it selfe may fall into contempt, yea (saith he) looke how much the more sincerely every pastour studies to promote the Kingdome of <hi>Christ,</hi> so much the more is he envied and
+<pb n="6" facs="tcp:196891:5"/> hated, and so much the more is he assaulted, and persecuted. If a slander be once raised upon him, it is presently taken for true; and he stands convicted in the opinion of the mul<g ref="char:EOLhyphen"/>titude: thus it usually falls out, because the Divell stirreth up almost in every man, too too easie a credulity against Mini<g ref="char:EOLhyphen"/>sters; insomuch, that no inquisition at all being made, the people greedily condemne their pastours, whose credit they ought in duty to uphold. S. <hi>Paul,</hi> therefore hath just cause to oppose himselfe against this <hi>strange iniustice,</hi> and wil not have Priests subjected to the malicious tongues of wicked per<g ref="char:EOLhyphen"/>sors, untill they be convicted in a legall course. For, what wonder if they be pester'd with enemies whose office it is to reprehend the vices of the time, to oppose themselves to the greedy rapine of all men, and to <hi>represse with severity,</hi> al those whom they know faulty or offensive. Thus far <hi>Calvin,</hi> and it is worthy the consideration to observe, whether he be not ra<g ref="char:EOLhyphen"/>ther a Prophet, then a Commentator in this place.</p>
+            <p n="11">
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oncil in Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>antinop. Can. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Cod. Affric. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>an <hi>19.128.</hi>
+               </note>XI. Consider that it was never held fit, that every man should be admit<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed indifferently to accuse an Orthodox Bishop, indeed if it were a civill or private suite betweene party and party, such as concerned debt, or fraud, or tres<g ref="char:EOLhyphen"/>passe, or he like, it was lawfull for any man without excep<g ref="char:EOLhyphen"/>tion, to prefer his Bil against a Bishop. But if it were a cause of Ecclesiasticall cognisance, then was it not lawfull for any heriticke to accuse a Bishop,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mnes servi, &amp; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>roprii liberti <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d accusationem <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n admittan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r, nec infa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ae maculis <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>persi, id est, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>striones, ac <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rpitudinibus <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ubjectae perso<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ae, haeretics <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iam, sive pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ani, seu Iudaei <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>od. Affric. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>129.</hi>
+               </note> neither was it lawfull for such as professe the true faith, and yet separate themselves from the <hi>Canonicall Bishops,</hi> and assemble in private Conventicles, neither was it thought meet, that any such should be admit<g ref="char:EOLhyphen"/>ted, that had beene either censured, or deprived, or excom<g ref="char:EOLhyphen"/>municated by the Church (whether they were of the Clergie or Laitie) before they had satisfied for their owne crimes. In like manner they that were accused of any foule sinne, might not be permitted to accuse a Bishop or any other of the Clergie, till they had cleared themselves of those ob<g ref="char:EOLhyphen"/>jections,
+<pb n="7" facs="tcp:196891:5"/> wherewith they were charged. But if they were liable to no such just exception, then might they freely prefer their complaints, either against Bishops, or other of the Clergie, but after this manner onely. First, they were to exhibite their libel before all the Bishops of that Province, and be<g ref="char:EOLhyphen"/>fore them to make their proofe: and if it were so, that the Bishops of that Province were not of sufficient power to correct those enormities, then were they to appeale to a greater Synod of that Diocese (as it were now to all the Bishops of the Kings severall Dominions) gathered toge<g ref="char:EOLhyphen"/>ther in a councell for that very purpose: neither was their li<g ref="char:EOLhyphen"/>bel or bill to be admitted before they had by bond made themselves liable to the same penalty, or danger,<note place="margin">Calumniator tenetur ad pae<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nam talionis.<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in c. si quam p<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nituerit. sect<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> notandum, <hi>2▪ 3.</hi>
+               </note> which was to fall upon the person accused, if so the promoters were found to have dealt iniuriously, and to faile in their proofe. But if so any man shall scorne this course, and shall molest the Emperour with clamors, or trouble the tribunals of se<g ref="char:EOLhyphen"/>cular Judges, or a generall councell, with complaints, his accusation is not to be admitted, because he sleights all the Bishops of that Diocese wherein he lives, because he disgra<g ref="char:EOLhyphen"/>ceth the Canons, and <hi>overthrowes all good order</hi> in the Church.</p>
+            <p>This Canon was made by the Fathers of the <hi>Councell of Constantinople,</hi>
+               <note place="margin">Sozonen. l. <hi>7<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> c. <hi>9.</hi>
+               </note> An. Dom. 383. confirmed it was by <hi>Theodosius the great,</hi>
+               <note place="margin">Concil. Const<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tinop. Can. <hi>6</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and received by the whole Church of God with full consent, made it was at such a time, when many endeavoured to subvert and confound all Ecclesiasticall order, odiously and slanderously traducing the Orthodox Bishops, that go<g ref="char:EOLhyphen"/>verned the Church, faining strange accusations against them,<note place="margin">Cod. Affric. Can <hi>131.</hi> Testes eos, q<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> accusator de mo suâ prod<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> erit, interro<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> non placuit, Paulus l. <hi>5.</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp; l. <hi>24.</hi> D.</note> intending thereby to blemish the reputation of the Clergie and to raise tumults among the people, that lived in peace. For this very cause was this Canon made, and this is worth the observation too.</p>
+            <p>And as none of these may be accusers, neither may they
+<pb n="6" facs="tcp:196891:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:196891:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:196891:7"/> be produced for witnesses against the Clergie, nor any that are of the accusers family.</p>
+            <p n="12">
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>aucorum cul<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> non praejudi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t religioni. A<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>stolorum fi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m Judae pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tio non de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>u<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it. Hieron. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>vers. Vigilant <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Gen <hi>18.23.</hi>
+               </note>XII. Consider that a whole society, corporation or pro<g ref="char:EOLhyphen"/>fession, is not to be condemned, because some few of them be bad. If so, what society or profession can stand? It is Gods owne rule, <hi>Onus suum unusquisque portabit.</hi> Deut. 24.26. Gal. 6.5. Every man must stand upon his owne leggs, and answer for his owne faults. And <hi>far be it from the Lord to slay the righte<g ref="char:EOLhyphen"/>ous with the wicked, and that the righteous should be as the wicked, be that far from the Lord, shall not the Iudge of all the earth doe right?</hi> And we must indeavour to be iust, as our Father in Heaven is iust.</p>
+            <p n="13">
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>h. 6.70.</note>X<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>II. Consider that if Gods choice be not alwaies good, man may easily mistake:<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iphan. haer. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Nos affectus <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> perturbatio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, quàm diu <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> tabernaculo <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>poris hujus <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bitamus, &amp; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gili carne cir<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ndamur, mo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rari &amp; regere <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ssumus, ampu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>re non possu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us Hieron. ad <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>metriad. <hi>Tim. 3.2. Tim. 2.2. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>it. 1.9.</hi>
+               </note> God elected <hi>Saul</hi> to be King over <hi>Israel,</hi> 1. Sam. 15.1. And yet it repented the Lord, that he had set up <hi>Saul</hi> to be King, <hi>Ib.</hi> 5. <hi>v.</hi> 12. Our Saviour made choice of t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elve Apostles, and one of them was a Divell. The Apostles picked out seven Deacons from among the faith<g ref="char:EOLhyphen"/>full, and one of those seven was author of the <hi>Nicolaitan here<g ref="char:EOLhyphen"/>sie,</hi> we must needs therefore confesse that <hi>we also are men of like passions with</hi> you, And yet, <hi>let men so account of us, as of the Mi<g ref="char:EOLhyphen"/>nisters of Christ, and Stewards of the mysteries of God,</hi> 1. <hi>Cor.</hi> 4.1.</p>
+            <p n="14">XIV. Consider, that S. <hi>Paul</hi> will have Bishops and Priests <hi>apt,</hi> and <hi>able to teach:</hi> and not onely so, but <hi>able to convince the gaine-sayers,</hi> and adversaries of the truth. <hi>Apt</hi> we are many of us (blessed be God) <hi>to teach,</hi> by those excellent gifts of na<g ref="char:EOLhyphen"/>ture,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>dia Scriptu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>um &amp; liborū <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ltitudine, &amp; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>entio, ac libra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>um sedulita<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uodq, propri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> est, securita<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> &amp; <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odictā<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m indigent, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cron. Marcel. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Anapsychiae. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ceph. l. o c, <hi>5.</hi>
+               </note> which God bestowes upon us from the cradle; but <hi>able</hi> we shall not be <hi>to teach,</hi> as we should doe, or to <hi>convince</hi> and confound the adversaries of the truth, unlesse we prove in<g ref="char:EOLhyphen"/>dustrious and learned. Learned we shall not be, without Bookes, and Bookes are not to be had without mony. When <hi>I<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lian</hi> therefore tooke away the meanes of the Church, he was said, <hi>non tam sacerdotes, quam sacerdotium occidere,</hi> not so much to slay the Priests, as the Priesthood it selfe.</p>
+            <pb n="9" facs="tcp:196891:7"/>
+            <p>In truth, it is the ready way to banish learning,<note place="margin">Ea est <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ingratitudo,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> de fovendis ve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bi ministris n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> multum sit so<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>citus; &amp; Sat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> hac arte, tentat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> doctrin â priv<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>re Ecclesiam,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>inopiae &amp; fami<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>metu plurimos absterret, ne id oneris suscipian<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Calvin. in <hi>1</hi> Tim. <hi>5.17.</hi> Ep<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Latymer Ser <hi>5</hi> before K. Edw<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>6. Luck. 11.52. Mat. 23.13.</hi>
+               </note> to unpeo<g ref="char:EOLhyphen"/>ple the Universities, to expose us, and the whole Kingdome, to contempt, and scorne; what Nation under the Sunne (to Gods glory be it spoken) hath more learned men of our pro<g ref="char:EOLhyphen"/>fession, then this Church of <hi>England?</hi> But, by heare-s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, if some may have their wills, we sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll not long be guilty of too much learning. For, if such courses be taken, we shall as Bp. <hi>Latimer</hi> complaines, <hi>Have nothing but a little</hi> ENGLISH DIVINITY, <hi>that will bring the Realme into very barbarousnesse, and utter decay of Learning. It is not that I wis</hi> (saith he) <hi>that will keepe out the Supremacie of the Bishop of</hi> Rome. Thus <hi>the key of knowledge shall be taken away;</hi> and <hi>the Kingdome of Heaven shall be shut up against men;</hi> that so we may <hi>neither goe in our selves, nor suffer others to enter in.</hi> God of his mercy preserve us from this dangerous sinne.</p>
+            <p>It was the glory of former times, that Senatours and great States-men became Priests; witnesse S. <hi>Ambrose, Paulinus, Pammachius, Nectarius,</hi> and divers other. And it will be the infamy of these later dayes, that none but the refuse of the people will stoope to our contemptible calling. <hi>Sublato honore, tollitur virtus.</hi> It was <hi>Ieroboams sinne,</hi> to make Priests of the meanest of the people; and this sinne was the ruine of his Family, even to destroy it from the face of the earth. 1 <hi>King.</hi> 13.33.34.</p>
+            <p>Neither is this to speake like a worldling; but with <hi>S. Paul</hi> to enquire, <hi>Who goes a warfare at his owne charges?</hi>
+               <note place="margin">1 Cor. 9.7. Ib. v. 9.</note>
+               <hi>or who feedeth a flocke, and eateth not of the milke of the flocke? Is it law<g ref="char:EOLhyphen"/>full to muzzle the mouth of the Oxe, that treadeth out the corne? Is it lawfull to stint him? If we have sowen unto you spirituall things,</hi>
+               <note place="margin">Ib. v. 11.</note>
+               <hi>is it a great matter, if we shall reape your worldly things?</hi>
+               <note place="margin">1 Tim, 5.18.</note>
+               <hi>Is not the labourer worthy of his reward?</hi> Will any man of worth labour, where no reward, or but a poore one, is proposed? Their in<g ref="char:EOLhyphen"/>gratitude therefore (saith <hi>Calvine</hi>) is not to be indured, who deny sustenance to their Pastors,<note place="margin">
+                  <hi>Calvin. in</hi> 1 <hi>Tim.</hi> 5.18.</note>
+               <hi>quibus nullam satis dignam
+<pb n="10" facs="tcp:196891:8"/> mercedem possunt rependere,</hi> to whom they are never able to re<g ref="char:EOLhyphen"/>turne a reward answerable to their paines.</p>
+            <p n="15">
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it. 27.28.</note>XV. Consider, that <hi>no</hi> DEVOTED THING, <hi>that a man devotes</hi> (or dedicates) <hi>unto the Lord, of all that he hath, both of man, and beast, or of the</hi> (Land, or FIELD) <hi>of his possession, shall be sold, or redee<g ref="char:EOLhyphen"/>med: every devoted thing is</hi> MOST HOLY UNTO THE LORD. The Priest may not make it away; neither may the Donor revoke,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m 16.37 38</note> or redeeme it. The censers of those sinners, <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> being offered before the Lord, were hallowed. And though they were offered by bad men, and for a bad end; yet might they not be put to any com<g ref="char:EOLhyphen"/>mon, or prophane use; no certainly, unlesse it be in case of necessity▪ And, blessed be God, we cannot pretend necessity, in so great plenty.<note place="margin">
+                  <p>
+                     <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>. 5.4:</hi>
+                  </p>
+                  <p>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>o condemna<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> quia post vo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> obtulerunt <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>si sua, &amp; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ejus, cui se<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ea voverāt: <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>temque jam <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> alienae sub<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ntiae reserva<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>āt. Metuen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> famem, quam <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ra fides non <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>et, praesen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> meruere <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>dictam, non <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>delitate sen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tiae, sed cor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tionis exem<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ut paenadu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>m hominum <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> doctrina <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ltorum Hie<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ad Demetri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Bezain Act <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. <hi>c. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>sh. 6.19. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>sh. 7.24. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> v. 5.7.8.25.</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>odoret in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ua. q. <hi>9.</hi>
+                  </p>
+               </note>From hence, from this Law before recited, it arose, that it was unlawfull for <hi>Ananias</hi> and <hi>Saphira,</hi> to subtract any part of that, which they had given to God. <hi>Beza</hi> saith, that it was <hi>Sacrilege</hi> even in them, to detaine that from the Church de<g ref="char:EOLhyphen"/>ceitfully, which themselves had lately given. What is it then in us, to take that from God and the Church, which we ne<g ref="char:EOLhyphen"/>ver gave them? Nay, which is more; <hi>Achan</hi> stole that, which was <hi>neither consecrated, nor given,</hi> but <hi>onely promised</hi> to the Lord: and yet it cost him full dearely, even all his substance, and his life, and the lives of all his children, to the utter rooting up of his posterity. Yea, though <hi>Achan</hi> onely had offended, all Israel suffered for his trangression. For their enemies smote them, and chased them so, that they turned their backs, and fled before their enemies. The reason is given by <hi>Theodoret;</hi> and this it is. Gods purpose was, both to correct this man for his sinne; and to strike a terror into all; that so even they, who are diligent in their owne particular to keepe Gods commandements, may be carefull to reprove others, who transgresse the same; otherwise they shall be sure to have a share, in the same punishments, with the offenders. And this
+<pb n="11" facs="tcp:196891:8"/> is one reason, that hath spurred me on, to write thus much unto you.</p>
+            <p n="16">XVI. Consider, what curses are layd upon those,<note place="margin">Id est, Omn<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> consiliorum<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lorum authore qui dixerunt, Haereditate p<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sideamus &amp;<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Cassiod. in L<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> that doe but <hi>say, Let us take to our selves the houses of God into posses<g ref="char:EOLhyphen"/>sion. Ps.</hi> 88.12.13. <hi>&amp;c.</hi> He that adviseth any man to doe this, doth but attempt the ruine of that mans family.</p>
+            <p>I wish heartily, that you would take the paines, to read Sir <hi>Henry Spelman, De non temerandis Ecclesiis,</hi> that you may foresee, and avoyd that danger, the wise man speakes of;<note place="margin">Prov. 20.25</note>
+               <hi>It is a snare to a man, to devoure that which is holy; and after vowes to make inquiry.</hi>
+            </p>
+            <p n="17">XVII. Consider that wonderfull observation of Sir <hi>Henry Spelman; Nescio, quo fato fit,</hi>
+               <note place="margin">S. Hen. Spel<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> non temeran<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Eccles. sect.<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in margine.</note>
+               <hi>ut eadem temporis periodo (viz Anno</hi> 68.) <hi>post ereptas per Nabuc. &amp; Hen.</hi> 8. <hi>res Templorum, stirps utri<g ref="char:EOLhyphen"/>usque regia extincta sit, imperium sublatum, &amp; ad aliam gentem de<g ref="char:EOLhyphen"/>volutum.</hi>
+            </p>
+            <p>This Nation hath beene shrewdly taxed,<note place="margin">Reginald. P<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Eccles. Unit. fens. l. <hi>3.</hi> fol.<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Bellar. Apo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>6.</hi> sect. Tra<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>deinde.</note> and our very Re<g ref="char:EOLhyphen"/>ligion branded, for that havocke of Church-lands, which was made in K. <hi>Hen.</hi> VIII. time. And those, that are accounted <hi>unfortunate families</hi> amongst us, should doe well to consider, whether some of their Ancestours had not an hand in this spoile.</p>
+            <p>That truely religious, and admirably Learned Prelate Bp. <hi>Andrewes</hi> professeth,<note place="margin">Populari op<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sacras, bon<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> omnibus, R<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ante omnes<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>plicet. Resp<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ad Bellar. A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> c. <hi>6.</hi> sect. ad<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> that this havocke was <hi>unpleasing to all good men,</hi> but especially to K. <hi>Iames.</hi> And, that the King was heartily displeased therewith, he manifested to the world, by those his lawes made in the beginning of his raigne, and in his first Parliament, as <hi>I</hi> take it: wherein he provided, that the lands of the Church from that time forward, should not be alienated, or passed away, to any Peers, or other of this Realme; no, not to his owne Sacred Person, or Progenie.<note place="margin">Reges in eo imitatus. I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Ad aeterna<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nimae suae<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tem, nomini<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> gloriā, &amp; po<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tatis mem<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> Herein (saith Bp. <hi>Andrewes</hi>) he imitated the godly Kings, to the eternal salvation of his soul, &amp; to the endlesse glory of his name. And shall we fall backe to our loathsome vomit? God forbid.</p>
+            <p n="18">
+               <pb n="12" facs="tcp:196891:9"/>XVIII. <hi>Magna charta</hi> is that, which hath ever beene stood upon, for the generall good of the Subjects of this Realme. We are freeborne Subjects, and not the worst members (I hope) of this Kingdome: and we are the first, that are provi<g ref="char:EOLhyphen"/>ded for in that <hi>great charter, Ecclesia habeat libertates &amp; privi<g ref="char:EOLhyphen"/>legia sua.</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Hen. Spel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n. de non te<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rand. Eccles. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t. <hi>5.</hi>
+               </note> These have beene confirmed to the Church, by Par<g ref="char:EOLhyphen"/>liament lawes, and by the <hi>charters of Kings,</hi> with many s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lemn vowes and imprecations, against all those, that should at a<g ref="char:EOLhyphen"/>ny time attempt to violate the same. As is to be seene in <hi>Rastals abridgement. tit. confirmat</hi> 3. And, <hi>Sententia lata super chartas.</hi>
+            </p>
+            <p n="19">
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>angelii fra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> jam &amp; ja<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s videbitur <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> majestas, si <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uit alterius <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>reti novitate <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erari. Cypr. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>30.</hi> n. <hi>6.</hi>
+               </note>XIX. Consider, that every Law, that is made against the Law of God, is voyd <hi>ipso facto,</hi> as soone as it is made; and ve<g ref="char:EOLhyphen"/>ry dangerous to those that make such Lawes.</p>
+            <p n="20">XX. It is also worthy the consideration, to behold, how tender that religious Emperor <hi>Constantine the Great</hi> was of the repu<g ref="char:EOLhyphen"/>tation of all Bishops. For in his time, by reason of those con<g ref="char:EOLhyphen"/>troversies, which were raised by <hi>Arius,</hi> and maintained by a faction, there arose such a deadly feaud amongst Christians, that not onely Bishop against Bishop,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>odoret. hist. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>c. <hi>11</hi> Socrat. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>c <hi>5.</hi> Gelas. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ic. l. <hi>2.</hi> c. <hi>8.</hi>
+               </note> but Lay-men also pre<g ref="char:EOLhyphen"/>ferd accusations against Bishops, and gave them into the Emperours hands. The Emperour received them, and pre<g ref="char:EOLhyphen"/>sently sealed them up with his owne Signet. And when he had laboured a reconciliation, and in part effected it, he tooke all the accusations, and cast them into the fire, in the presence of the Bishops, protesting deepely, that he had not read one syllable in them. Adding withall, that if he should find a <hi>Bishop</hi> committing folly with another mans wife, he would cover them with his owne purple robe, that no mans eyes might be offended with that sight. He professed also, that it was not fit, that the faults of <hi>Priests</hi> should be made publike; lest taking occasion by this open scandall, they might grow impudent in their sinnes.<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>as. Cyzic, Ib.</note> Yea (saith <hi>Gelasius Cy<g ref="char:EOLhyphen"/>zicenus</hi>) such, so great was the reverence, that good Emperour
+<pb n="13" facs="tcp:196891:9"/> shewed towards <hi>Bishops,</hi> that it may induce all those, who are truly wise, to stand in admiration thereof.</p>
+            <p>This great and religious Emperour,<note place="margin">S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>. l. <hi>1</hi> c. <hi>16.</hi>
+               </note> thought himselfe an unmeet person, to judge of <hi>Priests,</hi> and their actions: But, see how the world is alter'd; that is become almost every mans profession in these dayes, which that <hi>Great Constantine</hi> thought unlawfull for him to meddle with.</p>
+            <p>I might adde hereunto,<note place="margin">Theodoret. hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> l. <hi>1.</hi> c. <hi>2.</hi>
+               </note> what a charge he layd upon all those Christians, to whom he had committed the government of his severall Provinces, to <hi>use all Priests honourably, threatning death to any man, that should abuse them,</hi>
+            </p>
+            <p>The blessings,<note place="margin">Euseb hist. l <hi>1<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> c. <hi>1. 2.</hi> &amp;c.</note> that were showred downe upon this good Emperour, were infinite; he conquered all his enemies, he enlarged the Empire beyond all, that were before him; he supressed all his competitors to the Crowne;<note place="margin">Euseb. de vit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Constant. Mag<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> l. <hi>4.</hi> c. <hi>53.</hi>
+               </note> he setled the Empire upon his own issue, and he ended his dayes in peace, in a good old age, full of glory, and good workes.</p>
+            <p>This also is memorable,<note place="margin">
+                  <p>Euseb. Ib. l. <hi>1.<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 35.</hi> Sozom. l.<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> c <hi>8.</hi>
+                  </p>
+                  <p>Theodoret his<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> l. <hi>1.</hi> c. <hi>11.</hi>
+                  </p>
+               </note> that <hi>Constantine the Great</hi> was the first Emperour, that gave revenues to the Church, <hi>Eosque non tam egentium necessitate, quam sua ipsius magnificentia mensus est,</hi> wherein he rather considered his owne magnificence, then their wants. And <hi>Julian the Apostata</hi> was the first,<note place="margin">Theodoret. Ib.<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> that robbed the Church of her revenues.</p>
+            <p n="21">XXI. Consider, that in all the Church History we never read, that the <hi>Orthodox</hi> were persecuted by Catholike Chri<g ref="char:EOLhyphen"/>stians. But that great Lawyer, my Lord <hi>Coke</hi> tells us,<note place="margin">The L. Coke R<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ports. part <hi>2.</hi> fo. <hi>44.</hi> b. Leves<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> de Winchester<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> case.</note> that it is a more grievous &amp; <hi>dangerous persecution,</hi> to rob the Church, and <hi>spoyle spirituall persons</hi> of their revenues, whereof they should live; then it is to put spirituall persons to death. The reason. Because (saith he) upon this, in a short time, insu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>great ignorance of true religion,</hi> and of the service of God, and thereby great decay of C<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>istian profession. For none will apply themselves, or their sons, or any other, that they have
+<pb n="14" facs="tcp:196891:10"/> in charge, to the study of Divinity; when after long and painfull study, they shall have nothing, whereupon to live. So my Lord <hi>Coke.</hi>
+            </p>
+            <p>
+               <note place="margin">Latymer. ser. before K. Ed.<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> March <hi>8. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 49.</hi>
+               </note>Bishop <hi>Latymer</hi> saw the Church shrewdly shaved, and he complains to King <hi>Edward</hi> the sixt, that there was a plaine in<g ref="char:EOLhyphen"/>tent, to <hi>make the Clergy slavery. We the Clergy</hi> (saith he) <hi>had too much; but that is taken away, and now we have too little.</hi> And yet we have beene strangely polled, and pulled, since that time.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it. 1.8. Tim. 3, 2.</note>
+               <hi>S. Paul</hi> would have a Bishop to <hi>love hospitality,</hi> and to be <hi>given to it.</hi> But how shall they be able to doe this, if their meanes be taken from them? If a Bishop be not <hi>given to hos<g ref="char:EOLhyphen"/>pitality,</hi> he sinneth, by breaking this command. What then doe they, that make him unable to keepe hospitality? that enforce him to this sinne?</p>
+            <p n="22">XXII. Consider, that no law can be made to the disparage<g ref="char:EOLhyphen"/>ment of Churchmen, but it is against your own kindred, your owne flesh and blood, and, perchance, against the seed of your owne loynes. For who knowes, what profession God hath allotted your children unto? besides, it is against the rules of policy to barre your owne children, from any one faire and honest course of preferment.</p>
+            <p n="23">XXIII. And is it not worthy our best consideration, to examine sincerely, whether any power in the world can devest, or uncase an Orthodoxe Bishop of that power, which God hath endowed him with? But a Bishop hath power given him by God himselfe,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it. 1.5.</note> to <hi>set in order</hi> all things in the Church. He hath power given him, over all the Presbyters within his Dioces,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Tim. 1.3.</note> to <hi>charge them, that they teach</hi> no heterodox, no false, <hi>no other doctrine.</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Tim. 5.19. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. v. 20. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it. 1.13. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it. 2.15.</note> If there be any complaint against a Priest, or Elder, the Bishop hath power to <hi>receive the accusation</hi> against him. The Bishop hath power to <hi>rebuke that Priest,</hi> to <hi>rebuke him sharpely,</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pud D. Hie<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. l. <hi>1.</hi> ep. <hi>48.</hi>
+               </note> and <hi>with all authority,</hi> if he deserve it. That is, as <hi>Theophilus Archbishop of Alexandria</hi> interprets it, <hi>Prophetica falce
+<pb n="15" facs="tcp:196891:10"/> succidat;</hi> which ariseth to no lesse then <hi>Excommunication.</hi>
+            </p>
+            <p>If the Preachers teach any undutifull Office,<note place="margin">
+                  <p>
+                     <hi>1 Tim. 6.3. Ib. verse 5.</hi> Gravissimè damnatos <hi>ex<g ref="char:EOLhyphen"/>tra Ec<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lesia<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> ejicit,</hi> ut su<g ref="char:EOLhyphen"/>perbos. Beza in loc.</p>
+                  <p>Vbi verbi Dei gladio prostrat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ac vi veritat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> confusi fuerint posse illis ab E<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>clesia imperari silentium, et si pergant, salte<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> a fidelium com<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>munione arcer<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>posse. Calvin. in Tit. <hi>1.11.</hi>
+                  </p>
+                  <p>Calvin in Tit. <hi>3.10.</hi>
+                  </p>
+               </note> the Bishop must <hi>withdraw himselfe from them,</hi> that is, cast them out of the Communion of the Church. He must <hi>stop the Mouthes</hi> of Schismatickes and Hereticks, <hi>Tit.</hi> 1.1. And <hi>after the first and second Admonition reject them, Tit.</hi> 3.10. that is, <hi>Graviter quasi censoria correctione reprimendi sunt,</hi> they are severe<g ref="char:EOLhyphen"/>ly to be suppressed with a censorious Correction, not onely by <hi>Excommunication,</hi> but otherwise, if necessity require; so <hi>Calvin</hi> upon the place.</p>
+            <p>If any Question be made who this Heretick is, that St. <hi>Paul</hi> speakes of, <hi>Calvin</hi> resolves us, that not onely hee is ai<g ref="char:EOLhyphen"/>med at, that brings in perverse and erroneous Doctrine, but all Ambitious, refractary, and contentious Persons are also intended, who out of a crosse, perverse spirit, <hi>trouble the peace of the Church, or rend asunder the unity thereof.</hi>
+            </p>
+            <p>Now to what purpose is it, for a Bishop to <hi>receive an ac<g ref="char:EOLhyphen"/>cusation,</hi> against any of these troublesome and schismaticall persons? to what purpose is it to reprove and rebuke them? Yea, to what purpose is it to <hi>silence,</hi> to <hi>excommunicate</hi> and <hi>cast forth of the Church,</hi> such refractarie and incorrigible per<g ref="char:EOLhyphen"/>sons, if so be they shall still hold their Benefices, because they are made a <hi>Freehold</hi> by the Law?<note place="margin">It was Iulian the Apostata master-piece t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> maintaine all factious in R<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ligion, that so b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> might under<g ref="char:EOLhyphen"/>mine and over<g ref="char:EOLunhyphen"/>throw the Ca<g ref="char:EOLunhyphen"/>tholike Faith. Sozomen l <hi>5.</hi> c. <hi>5.</hi> &amp;c. <hi>2<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note> Is not this to nullifie the censures of the Church? Is not this to maintaine faction in Church and State? Is not this to make void all Acts of Parliament whatsoever, that have beene made against Simo<g ref="char:EOLhyphen"/>niacall Persons, Recusants, and against all such as after sub<g ref="char:EOLhyphen"/>scription shall fall backe and preach, or write, against any of <hi>the</hi> 39 <hi>Articles,</hi> or the <hi>Booke of Common Prayer,</hi> or the book of <hi>Ordination,</hi> or any poynt of Doctrine established by any of the foure first General Councels. These things are worthy to be considered of.</p>
+            <p>
+               <hi>Calvin</hi> affirmes that in those two <hi>Epistles to Timothy,</hi>
+               <note place="margin">In duabus ad Timotheum E<g ref="char:EOLunhyphen"/>pistolis, quasi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nâ tabulà, de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ctum habe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us verum <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cclesiae Regi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n. Calvin. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Edvard. So<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erseti Ducem.</note> the A<g ref="char:EOLhyphen"/>postle hath set down, as in a Table, the right, <hi>the true Govern<g ref="char:EOLhyphen"/>ment
+<pb n="6" facs="tcp:196891:11"/> of the Church.</hi> But this Governement of the Church is by Bishops truly and properly so cal'd, as these <hi>Epistles,</hi> and the <hi>Epistle</hi> to <hi>Titus,</hi> manifest. They then that crosse this kind of Governement by Bishops, endeavour to crosse the spirit of <hi>Christ,</hi> and to subvert the true Church governement.</p>
+            <p n="24">XXIV. Finally consider, that though the name of <hi>Deane</hi> and <hi>Chapter</hi> was not knowne in the primitive Church, yet the thing it selfe was. We read of <hi>Collegium Sacerdotum,</hi> a Col<g ref="char:EOLhyphen"/>ledge of Priests,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pr Ep. <hi>52. 67</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ncil Antioch. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n. <hi>24.</hi>
+               </note> and this is evident, that <hi>circa Episcopum,</hi> about or with the Bishop of every Diocesse, there alwayes lived certaine Priests and Deacons: These Priests and Deacons were to bee so throughly acquainted with the particular goods, lands, and revenues of that Church, that whensoe<g ref="char:EOLhyphen"/>ver the Bishop dyed, or were otherwise removed, none of those goods, lands, or revenues might be imbezelled, lost, or alienated. For it is just (saith the Canon) that the goods a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d possessions of the Church should bee preserved for the Church, with all diligence, as also with a good Conscience, and faith towards God, who hath the oversight of all, and judgeth all.<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ost Can. <hi>40.</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d Afric. Can. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>33.</hi>
+               </note> For these goods are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Lords pos<g ref="char:EOLhyphen"/>sessions, and it is not in the power of man (the case of neces<g ref="char:EOLhyphen"/>sity onely excepted) to sell or waste, or give them away, or to dispose of them to any common use.</p>
+            <p>When I had with no small griefe observed the manifold distempers of these times, and layd them to heart, I was much distempered therewith, wondering whither all these tended: but when I called to mind that of S. <hi>Paul,</hi> that wee must <hi>know,</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Tim 3.1.</note>
+               <hi>that in the last dayes perillous times shall come:</hi> I resolved, that this Prophesie was now fulfilled: For a man that hath but halfe an eye may see the whole Rabble, that the Apostle reckons up in the seven next verses, even in the midst of us: but my comfort is, that there bee many living, that shall see also the conclusion of this Prophesie, and the con<g ref="char:EOLhyphen"/>fusion of this rabble: for the Apostle assures us, that <hi>they
+<pb n="17" facs="tcp:196891:11"/> shall proceed no further, for their</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>their folly, their madnesse,</hi>
+               <note place="margin">Ib. Verse <hi>9.</hi> Amentia. Bez<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note>
+               <hi>their sencelessenesse, shall be manifest unto all men,</hi> and then will all men detest them and cast them off.</p>
+            <p>These considerations one after another comming so hap<g ref="char:EOLhyphen"/>pily to my mind, I could not but impart them unto you, as a testimony of that true affection which I beare to you and yours: <hi>God</hi> of his mercy grant, that they may worke that effect, which they were intended for; that so both you and I may one day heare with comfort, that <hi>Euge bone serve,</hi> come my good servant, that delivered'st this good word in due sea<g ref="char:EOLhyphen"/>son: come also my good servant, thou that didst hearken to this good word, and madest the right use of it, enter, enter both of you into your Masters Joy. This is the Prayer of</p>
+            <closer>
+               <signed>Your truly affectionate Friend and Kinsman &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Page 2 in marg. l. 3, for <hi>Priests</hi> read <hi>Priest.</hi> Ib. l. 18. for <hi>Christ</hi> read <hi>Christi.</hi> Ib. l. 24. for <hi>cont<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eli<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> r. <hi>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>liam.</hi> page 3. in marg. l. 7. for <hi>Cret</hi> r. <hi>Crete.</hi> p. 4. l. 1. for <hi>say.</hi> r. <hi>J say.</hi> p. 5. l. 11. for <hi>soules owne,</hi> r. <hi>owne soules.</hi> Ib. l. 16. for <hi>N<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</hi> r. <hi>Numb.</hi> Ib. l. 22. for <hi>ina dita,</hi> r. <hi>inaudita.</hi> p. 6. in marg. l. 1. dele <hi>in.</hi> Ib. l. 2. for <hi>he.</hi> r. <hi>the.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
